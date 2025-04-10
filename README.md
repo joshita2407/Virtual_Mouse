@@ -88,7 +88,7 @@ If you have any questions, suggestions, or feedback regarding this project, feel
 📍 Faridabad, Haryana  
 📧 Email: [joshita2016@gmail.com](mailto:joshita2016@gmail.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/joshita-gupta](https://www.linkedin.com/in/joshita-gupta)  
-💻 GitHub: [https://github.com/yourusername](https://github.com/joshita2407)
+💻 GitHub: [https://github.com/joshita2407](https://github.com/joshita2407)
 
 ---
 
